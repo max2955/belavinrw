@@ -6,6 +6,7 @@
 #include <arpa/inet.h>
 #include <fcntl.h>
 
+/*network helpers*/
 
 /*int fill_socket_addr_in(struct sockaddr_in * paddr,int port, char * ip)
 {
